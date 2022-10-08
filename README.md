@@ -1,4 +1,4 @@
-# Employee Exist Survey Analysis
+# Employee Exit Survey Analysis
 
 ## Goal
 
