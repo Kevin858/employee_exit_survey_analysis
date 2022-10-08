@@ -24,3 +24,5 @@ Below is a preview of a couple columns we'll work with from the tafe_survey.csv:
 ## Key Findings
 
 From the initial analysis above, we can tentatively conclude that employees with 7 or more years of service (Established) are more likely to resign due to some kind of dissatisfaction with the job than employees with less than 7 years of service. However, we need to handle the rest of the missing data to finalize our analysis.
+
+![alt text](https://github.com/Kevin858/employee_exit_survey_analysis/blob/master/image/dissatisfied_service_categories.png?raw=true)
